@@ -10,7 +10,7 @@ public class RandomStringChooser
     }
   }
 
-  public String getN(){
+  public String getNext(){
     if (words.size() == 0){
       return "NONE";
     }
